@@ -1,0 +1,152 @@
+
+textures6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bomb-1
+  rotate: false
+  xy: 256, 14
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bomb-2
+  rotate: false
+  xy: 975, 168
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+bomb-3
+  rotate: false
+  xy: 596, 51
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+explode-1
+  rotate: false
+  xy: 531, 7
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+explode-10
+  rotate: false
+  xy: 364, 149
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+explode-11
+  rotate: false
+  xy: 256, 32
+  size: 105, 107
+  orig: 105, 107
+  offset: 0, 0
+  index: -1
+explode-12
+  rotate: false
+  xy: 256, 141
+  size: 106, 113
+  orig: 106, 113
+  offset: 0, 0
+  index: -1
+explode-13
+  rotate: false
+  xy: 574, 154
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+explode-14
+  rotate: false
+  xy: 455, 57
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+explode-15
+  rotate: false
+  xy: 617, 9
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+explode-16
+  rotate: false
+  xy: 975, 212
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+explode-17
+  rotate: false
+  xy: 975, 186
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+explode-18
+  rotate: false
+  xy: 2, 2
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+explode-2
+  rotate: false
+  xy: 697, 85
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+explode-3
+  rotate: false
+  xy: 617, 77
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+explode-4
+  rotate: false
+  xy: 531, 69
+  size: 84, 81
+  orig: 84, 81
+  offset: 0, 0
+  index: -1
+explode-5
+  rotate: false
+  xy: 364, 60
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+explode-6
+  rotate: false
+  xy: 880, 162
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+explode-7
+  rotate: false
+  xy: 781, 158
+  size: 97, 96
+  orig: 97, 96
+  offset: 0, 0
+  index: -1
+explode-8
+  rotate: false
+  xy: 680, 154
+  size: 99, 100
+  orig: 99, 100
+  offset: 0, 0
+  index: -1
+explode-9
+  rotate: false
+  xy: 469, 152
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1

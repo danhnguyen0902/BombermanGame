@@ -1,0 +1,96 @@
+
+textures2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bot-0
+  rotate: false
+  xy: 256, 222
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+bot-1
+  rotate: false
+  xy: 256, 187
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+bot-2
+  rotate: false
+  xy: 274, 238
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+bot-3
+  rotate: false
+  xy: 256, 204
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+bot-4
+  rotate: false
+  xy: 256, 170
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+bot-5
+  rotate: false
+  xy: 290, 240
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+die-0
+  rotate: false
+  xy: 256, 238
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+die-1
+  rotate: false
+  xy: 274, 222
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+die-2
+  rotate: false
+  xy: 272, 208
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+die-3
+  rotate: false
+  xy: 308, 244
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+die-4
+  rotate: false
+  xy: 290, 229
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+die-5
+  rotate: false
+  xy: 256, 158
+  size: 3, 10
+  orig: 3, 10
+  offset: 0, 0
+  index: -1
+die-6
+  rotate: false
+  xy: 2, 2
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,26 @@
+
+textures7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bob
+  rotate: false
+  xy: 260, 356
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+clock
+  rotate: false
+  xy: 2, 132
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,61 @@
+
+textures5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+add-bomb
+  rotate: false
+  xy: 554, 89
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+block
+  rotate: false
+  xy: 2, 28
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+destroy_wall
+  rotate: false
+  xy: 2, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+destroyed_wall
+  rotate: false
+  xy: 256, 256
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+door
+  rotate: false
+  xy: 2, 282
+  size: 550, 720
+  orig: 550, 720
+  offset: 0, 0
+  index: -1
+longer-bomb
+  rotate: false
+  xy: 554, 411
+  size: 276, 591
+  orig: 276, 591
+  offset: 0, 0
+  index: -1
+speed
+  rotate: false
+  xy: 832, 874
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 832, 848
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,61 @@
+
+textures3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+b-left-1
+  rotate: false
+  xy: 260, 518
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+b-left-2
+  rotate: false
+  xy: 518, 776
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+b-up-1
+  rotate: false
+  xy: 2, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+b-up-2
+  rotate: false
+  xy: 260, 396
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bomb-1
+  rotate: false
+  xy: 2, 640
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bomb-2
+  rotate: false
+  xy: 2, 382
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+pause-1
+  rotate: false
+  xy: 260, 640
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+pause-2
+  rotate: false
+  xy: 2, 124
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

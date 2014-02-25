@@ -1,0 +1,19 @@
+
+textures4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+splash-screen
+  rotate: false
+  xy: 2, 2
+  size: 459, 118
+  orig: 459, 118
+  offset: 0, 0
+  index: -1
+textures3
+  rotate: false
+  xy: 2, 122
+  size: 512, 128
+  orig: 512, 128
+  offset: 0, 0
+  index: -1
